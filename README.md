@@ -5,15 +5,14 @@ Development journey, study notes, bootcamp progress and daily learning logs - Jo
 
 Dia 1 — 17/06
 
-✅ Início do Intensivo de Férias
-✅ Início do Bootcamp GFT Start #7 .NET
+✅ Início dos estudos de c#
 
 Dia 2 — 18/06
 
 ✅ Princípios de Desenvolvimento de Aplicações
 
 Dia 3 — 19/06
-Bootcamp GFT
+Bootcamp 
 
 ✅ Sintaxe e Tipos de Dados em C#
 
@@ -23,7 +22,7 @@ Projetos
 ✅ Primeira publicação do projeto no GitHub
 
 Dia 4 — 20/06
-Bootcamp GFT
+Bootcamp 
 
 ✅ Tipos de Operadores em C#
 ✅ Operadores Aritméticos em C#
@@ -34,3 +33,15 @@ Bootcamp GFT
 Estudos
 
 ✅ Revisão e fixação dos conceitos estudados
+
+Dia 4 — 21/06
+Bootcamp 
+
+✅ Começo da resolução do desafio
+
+Dia 5 - 22/06
+Bootcamp
+
+✅ Fim da resolução do desafio
+✅ Finalização do módulo
+
