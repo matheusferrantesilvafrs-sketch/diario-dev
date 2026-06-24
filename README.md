@@ -45,3 +45,15 @@ Bootcamp
 ✅ Fim da resolução do desafio
 ✅ Finalização do módulo
 
+Dia 6 — 23/06 Bootcamp
+
+✅ Conclusão do desafio Sistema para Estacionamento com C#
+
+✅ Conclusão do módulo Sintaxe Básica com .NET
+
+✅ Início do módulo Propriedades, Métodos e Construtores com C#
+
+Projetos
+
+✅ Avanços no Projeto Lens
+
