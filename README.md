@@ -57,3 +57,7 @@ Projetos
 
 ✅ Avanços no Projeto Lens
 
+Dia 6 — 24/06 Bootcamp
+
+✅ Conclusão do módulo Propriedades, Métodos e Construtores com C#
+
