@@ -61,3 +61,12 @@ Dia 6 — 24/06 Bootcamp
 
 ✅ Conclusão do módulo Propriedades, Métodos e Construtores com C#
 
+Dia 7 - 25/06 Projeto lens
+
+✅ Conclusão do módulo Manipulando valores com C# e Exceções e Coleções com C#.
+✅ Reconstrução dos códigos do Lens
+
+Dia 8 - 26/06 
+
+✅ Conclusão do módulo Tuplas, Operador Ternário e Desconstrução de um Objeto com C# e Nuget, serializar e atributos no C#.
+✅ Continuação do Lens
