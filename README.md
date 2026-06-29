@@ -85,7 +85,7 @@ Dia 10 - 27/06
 
 Dia 11 - 28/06
 
-✅ Conclusão do desafio Construindo um Sistema de Hospedagem de um Hotel no C#
+✅ Conclusão do desafio Construindo um Sistema de Hospedagem de um Hotel no C#.
 
 ✅ Conclusão dos módulos Introdução, Abstração e Encapsulamento com C#, Herança e Polimorfismo com C#, Classes Abstratas e Interfaces com C#
 
