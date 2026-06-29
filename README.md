@@ -51,7 +51,7 @@ Dia 6 — 23/06 Bootcamp
 
 ✅ Conclusão do módulo Sintaxe Básica com .NET
 
-✅ Início do módulo Propriedades, Métodos e Construtores com C#
+✅ Início dos módulos Propriedades, Métodos e Construtores com C#
 
 Projetos
 
@@ -59,14 +59,22 @@ Projetos
 
 Dia 7 — 24/06 Bootcamp
 
-✅ Conclusão do módulo Propriedades, Métodos e Construtores com C#
+✅ Conclusão dos módulos Propriedades, Métodos e Construtores com C#
 
 Dia 8 - 25/06 Projeto lens
 
-✅ Conclusão do módulo Manipulando valores com C# e Exceções e Coleções com C#.
+✅ Conclusão dos módulos Manipulando valores com C# e Exceções e Coleções com C#.
 ✅ Reconstrução dos códigos do Lens
 
 Dia 9 - 26/06 
 
-✅ Conclusão do módulo Tuplas, Operador Ternário e Desconstrução de um Objeto com C# e Nuget, serializar e atributos no C#.
+✅ Conclusão dos módulos Tuplas, Operador Ternário e Desconstrução de um Objeto com C# e Nuget, serializar e atributos no C#.
 ✅ Continuação do Lens
+
+Dia 10 - 27/06
+✅ Conclusão dos módulos Nuget, Serializar e Atributos no C#
+
+Dia 11 - 28/06
+✅ Conclusão do desafio Construindo um Sistema de Hospedagem de um Hotel no C#
+✅ Conclusão dos módulos Introdução, Abstração e Encapsulamento com C#, Herança e Polimorfismo com C#, Classes Abstratas e Interfaces com C#
+
