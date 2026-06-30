@@ -89,3 +89,7 @@ Dia 11 - 28/06
 
 ✅ Conclusão dos módulos Introdução, Abstração e Encapsulamento com C#, Herança e Polimorfismo com C#, Classes Abstratas e Interfaces com C#
 
+Dia 12 = 29/06
+
+✅ Conclusão do desafio POO celular
+
